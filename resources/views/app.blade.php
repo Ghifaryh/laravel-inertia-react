@@ -8,6 +8,7 @@
     @vite('resources/js/app.jsx')
     {{-- @vite(['resources/css/app.css', 'resources/js/app.jsx']) --}}
     @inertiaHead
+    @routes
 </head>
 
 <body>
